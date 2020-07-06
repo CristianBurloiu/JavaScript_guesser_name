@@ -1,1 +1,1 @@
-# JavaScript_guesser_name
+Practice Project for ITCareer Switch
